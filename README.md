@@ -1,2 +1,2 @@
 # profileminer
-A program which scrapes user profiles from popular websites
+A GUI which scrapes user profiles from popular websites.
